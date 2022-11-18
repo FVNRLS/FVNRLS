@@ -4,9 +4,13 @@
 
 
 ⚙️ B. Eng. Printing Engineering
+
 🔭 I’m currently working on working on C++ exercises 
+
 🌱 I’m currently learning Networks + Cybersecurity 
+
 📫 How to reach me: rmazurit@student.42heilbronn.de 
+
 
 
 
