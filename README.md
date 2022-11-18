@@ -5,7 +5,7 @@
 
 ⚙️ B. Eng. Printing Engineering
 
-🔭 I’m currently working on working on C++ exercises 
+🔭 I’m currently working on C++ exercises 
 
 🌱 I’m currently learning Networks + Cybersecurity 
 
