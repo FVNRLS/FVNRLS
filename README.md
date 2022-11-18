@@ -23,8 +23,8 @@
 ## Languages & Tools 💪
 
 |C|C++|Python|Bash|System Administration|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">|<img style="width: 200px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">|<img style="width: 200px" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626431185579x696909144901865600%2F%25231-AWS-File-uploader-Any-size%25281%2529.gif?w=&h=&auto=compress&dpr=1&fit=max">
+|:-:|:-:|:-:|:-:||:-:|
+|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|
 
 
 
