@@ -31,6 +31,19 @@
 |:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 200px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">|<img style="width: 200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|
 
+
+|Ghidra|Arch Linux|Qubes OS|
+|:-:|:-:|:-:|
+|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Ghidra_logo.svg">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg">|<img style="width: 200px" src="https://de.m.wikipedia.org/wiki/Datei:Qubes_OS_Logo.svg">|
+
+|Oracle VM VirtualBox|VMware|Boxes|VM Manager|
+|:-:|:-:|:-:|:-:|
+|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Virtualbox_logo.png">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Vmware.svg">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:GNOME_Boxes_Logo_2018.svg"><img style="width: 200px" src="https://favpng.com/png_view/microsoft-virtual-machine-manager-microsoft-azure-png/RAHURz5Z">|
+
+
+
+
+
 <br>
 
 
