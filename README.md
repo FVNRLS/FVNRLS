@@ -44,7 +44,7 @@
 
 
 <details>
- <summary> Activity statistics </summary>
+ <summary> Activity overview </summary>
 
  <br>
  
