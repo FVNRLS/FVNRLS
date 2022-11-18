@@ -11,6 +11,8 @@
 
 📫 How to reach me: rmazurit@student.42heilbronn.de 
 
+🇷🇺 🇩🇪 🇺🇸 Contact me with those languages
+
 
 
 
