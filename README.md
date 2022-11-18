@@ -38,7 +38,7 @@
 
 |Oracle VM VirtualBox|VMware|Boxes|VM Manager|
 |:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Virtualbox_logo.png">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Vmware.svg">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:GNOME_Boxes_Logo_2018.svg"><img style="width: 200px" src="https://favpng.com/png_view/microsoft-virtual-machine-manager-microsoft-azure-png/RAHURz5Z">|
+|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Virtualbox_logo.png">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Vmware.svg">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:GNOME_Boxes_Logo_2018.svg">|<img style="width: 200px" src="https://favpng.com/png_view/microsoft-virtual-machine-manager-microsoft-azure-png/RAHURz5Z">|
 
 
 
