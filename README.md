@@ -1,4 +1,4 @@
-### Hi there 🤟
+### Hi there :metal2:
 
 <!--
 **FVNRLS/FVNRLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
