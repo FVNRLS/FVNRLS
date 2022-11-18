@@ -29,7 +29,7 @@
 
 |Linux|Git|GitHub|Docker|HTML|
 |:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 200px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">|<img style="width: 200px" src="width: 200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|
+|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 200px" src="https://i2.wp.com/foxutech.com/wp-content/uploads/2017/03/docker-images-on-local-disk.gif?fit=900%2C600&ssl=1">|<img style="width: 200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|
 
 <br>
 
