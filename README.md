@@ -22,8 +22,8 @@
 
 ## Languages & Tools 💪
 
-|C|C++|Python|Bash|System Administration|
-|:-:|:-:|:-:|:-:||:-:|
+|C|
+|:-:|
 |<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|
 
 
