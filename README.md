@@ -28,8 +28,8 @@
 
 
 |Linux|Git|GitHub|Docker|Html|
-|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://de.wikipedia.org/wiki/Linux#/media/Datei:Tux.svg">|<img style="width: 200px" src="">|<img style="width: 200px" src="">|<img style="width: 200px" src="">|<img style="width: 200px" src="">|
+|:-:|:-:|
+|<img style="width: 200px" src="https://de.wikipedia.org/wiki/Linux#/media/Datei:Tux.svg">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 200px" src="">|<img style="width: 200px" src="">|
 
 <br>
 
