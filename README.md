@@ -40,7 +40,7 @@
 <br>
 
 
-<details>
+##<details>
  <summary> Activity statistics </summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FVNRLS&count_private=true&show_icons=true&theme=dracula)
