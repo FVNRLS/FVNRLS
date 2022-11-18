@@ -5,9 +5,13 @@
 
 ⚙️ B. Eng. Printing Engineering
 
-🔭 I’m currently working on C++ exercises 
+👨‍💻 Software Developer
 
-🌱 I’m currently learning Networks + Cybersecurity 
+💻 Cadet at 42-Heilbron - intra: rmazurit
+
+🔭 I’m currently working on C++ exercises
+
+🌱 I’m currently learning Networks + Cybersecurity
 
 📫 How to reach me: rmazurit@student.42heilbronn.de 
 
