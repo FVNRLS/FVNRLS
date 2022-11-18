@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/WsvLlmmjx9tnmeTPNc/giphy.gif)
 
 
-⚙️ B. Eng. Printing Engineering
+⚙️ B. Eng. Printing Engineer
 
 👨‍💻 Software Developer
 
