@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Networks + Cybersecurity
 - 📫 How to reach me: rmazurit@student.42heilbronn.de
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FVNRLS)](https://github.com/FVNRLS/github-readme-stats)
 
