@@ -4,9 +4,9 @@
 
 <br>
 
-### About me:
-
-
+|### About me:|
+|:-:|
+|
 ⚙️ B. Eng. Printing Engineer
 
 👨‍💻 Software Developer
@@ -20,6 +20,7 @@
 ✉️ How to reach me: rmazurit@student.42heilbronn.de 
 
 🇷🇺 🇩🇪 🇺🇸 Contact me with those languages
+|
 
 
 <br>
