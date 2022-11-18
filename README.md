@@ -24,7 +24,7 @@
 
 <br>
 
-## Languages & Tools 💪
+### Languages & Tools 💪
 
 |C|C++|Python|Bash|Cisco Network Administration|
 |:-:|:-:|:-:|:-:|:-:|
