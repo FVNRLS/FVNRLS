@@ -24,8 +24,7 @@
 
 |C|C++|
 |:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg">|
+|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg">|
 
 
 
