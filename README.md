@@ -24,7 +24,7 @@
 
 |C|C++|Python|Bash|Cisco Network Administration|
 |:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">|<img style="width: 200px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://media.giphy.com/media/1msHsbhybB80DJZRoL/giphy.gif">|
+|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">|<img style="width: 200px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202785614-38354aa9-769b-4ec4-ba4a-05c0576859f4.png">|
 
 
 |Linux|Git|GitHub|Docker|HTML|VirtualBox|VMware|Boxes|VM Manager|Ghidra|
