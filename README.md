@@ -24,4 +24,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVNRLS)](https://github.com/FVNRLS/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FVNRLS)](https://github.com/FVNRLS/github-readme-stats)
