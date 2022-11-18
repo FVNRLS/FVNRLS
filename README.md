@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on C++ exercises
 
-🌱 I’m currently learning Networks + Cybersecurity
+🌱 I’m currently learning Cisco Networking + Ghidra
 
 📫 How to reach me: rmazurit@student.42heilbronn.de 
 
