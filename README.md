@@ -1,8 +1,6 @@
 ### Hi there, my name is Roman
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Two+things+are+infinite:;The+universe+and+human+stupidity;Second+line+of+text)](https://git.io/typing-svg)
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines= and I’m not sure about th’universe!;Second+line+of+text)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Two+things+are+infinite:;The+universe+and+human+stupidity;...+and+I’m+not+sure+about th’universe!)](https://git.io/typing-svg)
 
 ![Alt Text](https://media.giphy.com/media/WsvLlmmjx9tnmeTPNc/giphy.gif)
 
