@@ -34,7 +34,7 @@
 
 |VS Code|CLion|Pycharm|
 |:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://png2.cleanpng.com/sh/f4210a2b96acf633600bc3b44dc2b4d5/L0KzQYm3WMA5N5l3eZH0aYP2gLBuTfNtcZDzRdxudHL1cbr1k71qdqVqhN5yaj3sdLboTfMudZJohAU2YXz3f8foTlKvNaZyh9ZubD5Fvn7ojwl4aaNqReV4ZoT6ccPsk702amdmeqdrZkLnc4KBWL4yPmM7T6k5NUG4Q4SAUck6QWo2UKk9LoDxd1==/kisspng-clion-jetbrains-intellij-idea-c-macos-altova-%C2%AE-umodel-%C2%AE-anyware-softwares-5b6ab5bf2dc188.1626770515337199991874.png">|<img style="width: 200px" src="">|
+|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://png2.cleanpng.com/sh/f4210a2b96acf633600bc3b44dc2b4d5/L0KzQYm3WMA5N5l3eZH0aYP2gLBuTfNtcZDzRdxudHL1cbr1k71qdqVqhN5yaj3sdLboTfMudZJohAU2YXz3f8foTlKvNaZyh9ZubD5Fvn7ojwl4aaNqReV4ZoT6ccPsk702amdmeqdrZkLnc4KBWL4yPmM7T6k5NUG4Q4SAUck6QWo2UKk9LoDxd1==/kisspng-clion-jetbrains-intellij-idea-c-macos-altova-%C2%AE-umodel-%C2%AE-anyware-softwares-5b6ab5bf2dc188.1626770515337199991874.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">|
 
 
 
