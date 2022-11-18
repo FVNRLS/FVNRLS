@@ -1,5 +1,7 @@
 ### Hi there, my name is Roman
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Two things are infinite: the universe and human stupidity; and I’m not sure about th’universe!;Second+line+of+text)](https://git.io/typing-svg)
+
 ![Alt Text](https://media.giphy.com/media/WsvLlmmjx9tnmeTPNc/giphy.gif)
 
 
