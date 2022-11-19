@@ -12,7 +12,7 @@
 
 💻 Cadet at 42-Heilbron - intra: rmazurit
 
-🔭 I’m currently working on C++ exercises
+🤦 I’m currently working on C++ exercises
 
 🤔 I’m currently learning Cisco Networking + Ghidra
 
