@@ -10,7 +10,7 @@
 
 👨‍💻 Software Developer
 
-💻 Cadet at 42-Heilbron - intra: rmazurit
+💻 Cadet at 42-Heilbronn - intra: rmazurit
 
 🤦 I’m currently working on C++ exercises
 
