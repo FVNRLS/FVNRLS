@@ -14,7 +14,7 @@
 
 🤦 I’m currently working on C++ exercises
 
-🤔 I’m currently learning Ghidra
+🤔 I’m currently learning Ghidra & IDA Pro
 
 ✉️ How to reach me: rmazurit@student.42heilbronn.de 
 
