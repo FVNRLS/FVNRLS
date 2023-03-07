@@ -32,7 +32,7 @@
 
 |VS Code|CLion|Pycharm|Arch Linux|Qubes OS|yEd|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fclion-logo-2%2F&psig=AOvVaw3wx8fb3qvPX6_YAQ2IzK2n&ust=1678273300973000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDZy7HVyf0CFQAAAAAdAAAAABAf">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202785614-38354aa9-769b-4ec4-ba4a-05c0576859f4.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202798827-fc8f7918-cdbd-4005-9a0b-4d94c55a1a29.png">|
+|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/223405419-3ea75c16-bea3-4391-87a6-24ffae9bc175.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202785614-38354aa9-769b-4ec4-ba4a-05c0576859f4.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202798827-fc8f7918-cdbd-4005-9a0b-4d94c55a1a29.png">|
 
 
 <br>
