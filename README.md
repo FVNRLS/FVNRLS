@@ -1,9 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1EB93A&width=435&lines=Two+things+are+infinite%3A;The+universe+and+human+stupidity;...+and+I%E2%80%99m+not+sure+about+the+universe!)](https://git.io/typing-svg)
-
-![Alt Text](https://media.giphy.com/media/WsvLlmmjx9tnmeTPNc/giphy.gif)
-
-<br>
-
 ### About me:
 
 ⚙️ B. Eng. Printing Engineer
