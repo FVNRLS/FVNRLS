@@ -22,7 +22,7 @@
 
 |C|C++|Python|Bash|Cisco Network Administration|TypeScript|JavaScript
 |:-:|:-:|:-:|:-:|:-:||:-:||:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">|<img style="width: 200px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://media.giphy.com/media/1msHsbhybB80DJZRoL/giphy.gif">|<img style="width: 200px" src="https://commons.wikimedia.org/wiki/File:Typescript.svg">|
+|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">|<img style="width: 200px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://media.giphy.com/media/1msHsbhybB80DJZRoL/giphy.gif">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg">|
 
 
 |Linux|Git|GitHub|Docker|HTML|VirtualBox|VMware|Boxes|VM Manager|Ghidra|
