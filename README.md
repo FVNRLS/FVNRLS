@@ -32,7 +32,7 @@
 
 |VS Code|JetBrains|Qubes OS|yEd|NestJs|React
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://www.jetbrains.com/company/brand/img/logo2.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202785614-38354aa9-769b-4ec4-ba4a-05c0576859f4.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202798827-fc8f7918-cdbd-4005-9a0b-4d94c55a1a29.png">|
+|<img style="width: 200px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 200px" src="https://www.jetbrains.com/company/brand/img/logo2.svg">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg">|<img style="width: 200px" src="https://user-images.githubusercontent.com/88487425/202798827-fc8f7918-cdbd-4005-9a0b-4d94c55a1a29.png">|
 
 
 <br>
