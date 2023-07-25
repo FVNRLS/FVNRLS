@@ -6,10 +6,6 @@
 
 💻 Cadet at 42-Heilbronn
 
-🤦 I’m currently working on the web-project 'Transcendence'
-
-🤔 I’m currently learning OSINT 
-
 ✉️ How to reach me: rmazurit@student.42heilbronn.de 
 
 🇩🇪 🇺🇸 🇷🇺 Contact me with those languages
